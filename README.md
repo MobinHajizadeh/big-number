@@ -1,2 +1,2 @@
 # Big-Number
-Big Number library in java without using BigInteger.
+Calculation of numbers with unlimited size witout using BigInteger.
