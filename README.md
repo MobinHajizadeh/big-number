@@ -1,2 +1,2 @@
 # Big-Number
-Calculation of numbers with unlimited size witout using BigInteger.
+Calculation of numbers with unlimited size without using BigInteger.
